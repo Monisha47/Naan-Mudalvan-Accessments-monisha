@@ -1,6 +1,6 @@
 # Naan-Mudalvan-Assignments-monisha
 
-## HI all, I'm Monisha form prince dr k vasudevan college of engineering and technology
+## HI all, I'm Monisha from prince dr k vasudevan college of engineering and technology
 ## This repository consists of Naan Mudalvan Projects under IBM for IOT batch.
 ## Here are the links for my various assignments.
 ### Assignment 1  - Smart Home 
